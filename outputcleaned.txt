@@ -1,0 +1,25 @@
+2007619 and 5048465 are nearby (low resolution)
+2007619 and 5265906 are nearby (low resolution)
+2007619 shares a coassignee with 5048465
+2007619 shares a coassignee with 549346
+2007619 shares a coinventor with 5048465
+4739675 and 549346 are nearby (low resolution)
+5048465 and 2007619 are nearby (low resolution)
+5048465 and 5265906 are nearby (low resolution)
+5048465 shares a coassignee with 2007619
+5048465 shares a coassignee with 549346
+5048465 shares a coinventor with 2007619
+5265906 and 2007619 are nearby (low resolution)
+5265906 and 5048465 are nearby (low resolution)
+549346 and 4739675 are nearby (low resolution)
+549346 shares a coassignee with 2007619
+549346 shares a coassignee with 5048465
+********List of Last Names and First Name/Middle Initials for IDs********
+High Resolution Last Names
+['PEDERSEN', 'Pedersen', '', '', '']
+High Resolution First Names/Middle Initials
+[[' Elin R'], [' Elin R'], [''], [''], ['']]
+Low Resolution Last Names
+[['PEDERSEN', 'Pedersen', 'Pedersen'], ['Pedersen'], ['Pedersen'], ['Pederson'], ['Pedersen']]
+Low Resolution First Names/Middle Initials
+[[' Elin, R.', ' Elin R', ' Elin R'], [' Elin R'], [' Elin Ronby'], [' Elin R'], [' Elin Rønby']]
